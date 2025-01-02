@@ -1,2 +1,1 @@
-# Technical-book
-My thesis on ELK
+# My thesis on ELK
